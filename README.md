@@ -9,7 +9,9 @@ Requirement:Hands on experience on distributed cache such as Gemfire
   https://www.youtube.com/watch?v=miD9QwMKv48
 
 Step to do
+
 – Create a Spring Boot project add dependency
+
 <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-gemfire</artifactId>
@@ -17,10 +19,15 @@ Step to do
         </dependency>
 
 Step to do
+
 – Create a Spring Boot project
+
 – Create a Java Model class
+
 – Config Gemfire storage
+
 – Create a Gemfire repository
+
 – Run & Check result
 
 
